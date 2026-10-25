@@ -81,5 +81,5 @@ object kecil: identity, state, behavior, dan responsibility.
 
 ## Pengembang
 
-- Nama: (isi nama kamu)
+- Nama: Tiara & Wanda
 - Dosen: Kodrat Mahatma, S.T., M.Kom
